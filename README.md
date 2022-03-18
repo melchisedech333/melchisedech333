@@ -1,6 +1,6 @@
 ### Olá, eu sou Melchisedech ^_^
 
-<img align='right' src="serial-experiments-lain.ico" width="150" >
+<img align='right' src="serial-experiments-lain.ico" width="200" >
 
 <p>
   Sou desenvolvedor de software, faço implementações para <i>back-end</i> e <i>front-end</i>. Gosto muito de sistemas <i>web</i> feitos em PHP, mas sempre que  possível também estou criando softwares para ambiente <i>desktop</i> e <i>servidores</i>.
