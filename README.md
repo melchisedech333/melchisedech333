@@ -5,15 +5,15 @@
 <p>
   Sou desenvolvedor de software, implemento coisas para <i>back-end</i> e <i>front-end</i>. Gosto muito de sistemas <i>web</i> feitos em PHP, mas sempre que  possível também estou implementando softwares mais voltados para ambiente <i>desktop</i> e <i>servidores</i>.
   
-  <br><br>
+  <br>
 
   Venho estudando a respeito do desenvolvimento de linguagens e manufatura de microchips. Bem como sempre buscando ficar atualizado com as tecnologias que o mercado exige.
 
-  <br><br>
+  <br>
 
   Para além dos conhecimentos de ordem técnica, também me interesso muito por religião (em especial o Cristianimo), e literatura (em especial os clássicos).
 
-  <br><br>
+  <br>
 
   Minhas habilidades: <strong>CSS, HTML, JS, PHP, C, MySQL.</strong>
 </p>
