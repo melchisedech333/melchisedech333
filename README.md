@@ -10,9 +10,9 @@
   Para além dos conhecimentos de ordem técnica, também me interesso muito por religião (em especial o Cristianimo), e literatura (em especial os clássicos).
 
   Minhas habilidades: 
-    <img src="css-a.png" width="30px" />
+    <img src="css-a.png" width="20px" />
     <img src="html.png" width="30px" />
-    <img src="js.png" width="30px" style="margin-left:5px;margin-right:5px;" />
+    <img src="js.png" width="30px" />
     <img src="php.png" width="30px" />
     <img src="mysqld.png" width="30px" />
     <img src="c.png" width="30px" />
