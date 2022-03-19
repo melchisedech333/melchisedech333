@@ -11,7 +11,7 @@
 
   Minhas habilidades: 
     <img src="css-a.png"  height="30px" />
-    <img src="html.png"   height="30px" />
+    <img src="html5.png"  height="30px" />
     <img src="js.png"     height="30px" />
     <img src="php.png"    height="30px" />
     <img src="mysqld.png" height="30px" />
