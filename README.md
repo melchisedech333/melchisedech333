@@ -10,14 +10,13 @@
   Para além dos conhecimentos de ordem técnica, também me interesso muito por religião (em especial o Cristianimo), e literatura (em especial os clássicos).
 
   Minhas habilidades: 
-  <img src="css.png" width="30px" />
-  <img src="html.png" width="30px" />
-  <img src="js.png" width="30px" />
-  <img src="php.png" width="30px" />
-  <img src="mysql.png" width="30px" />
-  <img src="c.png" width="30px" />
-  
-  Minhas habilidades: <strong>CSS, HTML, JS, PHP, C, MySQL.</strong>
+    <img src="css.png" width="30px" />
+    <img src="html.png" width="30px" />
+    <img src="js.png" width="30px" />
+    <img src="php.png" width="30px" />
+    <img src="mysql.png" width="30px" />
+    <img src="c.png" width="30px" />
+    
 </p>
 
 
