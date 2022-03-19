@@ -24,7 +24,7 @@
 [![Blog](https://img.shields.io/badge/Blog-444444?style=for-the-badge&logo=github&logoColor=white)](https://melchisedech333.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melchisedech-rex-724152235/)
 
-<div>
+<div align="left">
   <a href="https://github.com/melchisedech333">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=melchisedech333&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melchisedech333&layout=compact&langs_count=7&theme=tokyonight" />
