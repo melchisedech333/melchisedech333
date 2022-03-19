@@ -1,4 +1,4 @@
-### Olá, sou o Jessé <i>aka</i> Melchisedech <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40"> 
+### Olá, sou o Jessé <i>aka</i> Melchisedech <img src="cool-doge.gif" width="40"> 
 
 <img align='right' src="lain-1.png" width="200" >
 
