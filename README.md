@@ -1,6 +1,6 @@
 ### Olá, sou o Melch1sed3ch <!-- <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40"> -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melchisedech333&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" width="600em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melchisedech333&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <!--
