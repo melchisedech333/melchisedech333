@@ -1,4 +1,4 @@
-### Olá, sou o Jessé aka Melchisedech ^_^
+### Olá, sou o Jessé <i>aka</i> Melchisedech ^_^
 
 <img align='right' src="serial-experiments-lain.ico" width="200" >
 
