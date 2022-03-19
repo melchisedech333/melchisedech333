@@ -14,7 +14,7 @@
     <img src="html.png" width="30px" />
     <img src="js.png" width="30px" />
     <img src="php.png" width="30px" />
-    <img src="mysqldb.png" width="30px" />
+    <img src="mysqld.png" width="30px" />
     <img src="c.png" width="30px" />
     
 </p>
