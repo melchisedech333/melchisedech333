@@ -1,6 +1,6 @@
 ### Olá, sou o Melch1sed3ch <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40"> 
 
-<img align='right' src="lain-1.png" width="200" >
+<img align='right' src="lain-1.png" width="150" >
 
 <p>
   Sou desenvolvedor de software, faço implementações para <i>back-end</i> e <i>front-end</i>. Gosto muito de sistemas <i>web</i> feitos em PHP, mas sempre que  possível também estou criando softwares para ambiente <i>desktop</i> e <i>servidores</i>.
@@ -19,7 +19,6 @@
     
 </p>
 
-
 <p align="left"><b>Me siga:</b></p>
 
 [![Blog](https://img.shields.io/badge/Blog-444444?style=for-the-badge&logo=github&logoColor=white)](https://melchisedech333.github.io/)
@@ -28,6 +27,7 @@
 <div>
   <a href="https://github.com/melchisedech333">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=melchisedech333&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melchisedech333&layout=compact&langs_count=7&theme=tokyonight" />
   </a>
 </div>
 
