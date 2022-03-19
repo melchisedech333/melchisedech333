@@ -1,6 +1,6 @@
 ### Olá, sou o Melch1sed3ch <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40"> 
 
-<img align='right' src="lain-1.png" width="150" >
+<img align='right' src="lain-1.png" width="50" >
 
 <p>
   Sou desenvolvedor de software, faço implementações para <i>back-end</i> e <i>front-end</i>. Gosto muito de sistemas <i>web</i> feitos em PHP, mas sempre que  possível também estou criando softwares para ambiente <i>desktop</i> e <i>servidores</i>.
