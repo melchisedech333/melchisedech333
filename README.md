@@ -1,4 +1,4 @@
-### Olá, sou o Jessé <i>aka</i> Melchisedech ^_^
+### 💻 Olá, sou o Jessé <i>aka</i> Melchisedech ^_^
 
 <img align='right' src="lain-1.png" width="200" >
 
