@@ -22,7 +22,6 @@
 <p align="left"><b>Me siga:</b></p>
 
 [![Blog](https://img.shields.io/badge/Blog-444444?style=for-the-badge&logo=github&logoColor=white)](https://melchisedech333.github.io/)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jess%C3%A9-aka-melchisedech-724152235/)
 
 <div>
