@@ -1,4 +1,4 @@
-### <img src="terminal.png" width="20px" /> Olá, sou o Jessé <i>aka</i> Melchisedech <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40"> 
+### <img src="terminal.png" width="30px" /> Olá, sou o Jessé <i>aka</i> Melchisedech <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40"> 
 
 <img align='right' src="lain-1.png" width="200" >
 
