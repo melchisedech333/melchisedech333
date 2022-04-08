@@ -4,8 +4,6 @@
 
 
 <p>
-  Sou 
-
   Sou desenvolvedor de software, faço implementações para <i>back-end</i> e <i>front-end</i>. Gosto muito de sistemas <i>web</i> feitos em PHP, mas sempre que  possível também estou criando softwares para ambiente <i>desktop</i> e <i>servidores</i>.
   
   Venho estudando a respeito do desenvolvimento de linguagens e manufatura de microchips, pois sonho em poder trabalhar com coisas semelhantes no futuro. Bem como sempre estou buscando ficar atualizado com as tecnologias mais recentes, e que o mercado exige.
