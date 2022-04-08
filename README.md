@@ -4,6 +4,8 @@
 
 
 <p>
+  Sou 
+
   Sou desenvolvedor de software, faço implementações para <i>back-end</i> e <i>front-end</i>. Gosto muito de sistemas <i>web</i> feitos em PHP, mas sempre que  possível também estou criando softwares para ambiente <i>desktop</i> e <i>servidores</i>.
   
   Venho estudando a respeito do desenvolvimento de linguagens e manufatura de microchips, pois sonho em poder trabalhar com coisas semelhantes no futuro. Bem como sempre estou buscando ficar atualizado com as tecnologias mais recentes, e que o mercado exige.
@@ -29,7 +31,7 @@
 <div align="left">
   <a href="https://github.com/melchisedech333">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=melchisedech333&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&randabc=4534535434" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melchisedech333&layout=compact&langs_count=20&theme=tokyonight" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melchisedech333&layout=compact&langs_count=20&theme=tokyonight&include_all_commits=true&count_private=true" />
   </a>
 </div>
 
