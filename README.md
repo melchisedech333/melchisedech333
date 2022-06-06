@@ -5,7 +5,7 @@ I am a software developer and researcher, and I am very interested in the study 
 
 Currently I have been working on the development of the <a href="https://github.com/verbum-lang">Verbum programming language</a>. A language that has an emphasis on distributed computing, seeking to integrate interesting features, such as hot code reload and metaprogramming.
 
-**If my code has helped you, please consider [sponsoring me](https://github.com/sponsors/melchisedech333) :purple_heart:** 
+**If my code has helped you, please consider [sponsoring me](https://github.com/sponsors/melchisedech333) :blue_heart:** 
 
 <!-- ### Olá, sou o Melch1sed3ch <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40"> 
 
