@@ -1,6 +1,10 @@
 
 ### <div align="center">I'm Jessé Silva <i>aka Melchisedech333</i></div>  
 
+I am a software developer and researcher, and I am very interested in the study of physics and mathematics.
+
+
+Currently I have been working on the development of the <a href="https://github.com/verbum-lang">Verbum programming language</a>.
 
 <!-- ### Olá, sou o Melch1sed3ch <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40"> 
 
