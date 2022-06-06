@@ -1,4 +1,8 @@
-### Olá, sou o Melch1sed3ch <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40"> 
+
+### <div align="center">I'm Jessé Silva <i>aka Melchisedech333</i></div>  
+
+
+<!-- ### Olá, sou o Melch1sed3ch <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40"> 
 
 <img align='right' src="lain-1.png" width="100" >
 
@@ -8,7 +12,7 @@
   
   Venho estudando a respeito do desenvolvimento de linguagens e manufatura de microchips, pois sonho em poder trabalhar com coisas semelhantes no futuro.
 
-  Para além dos conhecimentos de ordem técnica, também me interesso muito por religião (em especial o Cristianimo), e literatura (em especial os clássicos).
+  Para além dos conhecimentos de ordem técnica, também me interesso muito por religião (em especial o Cristianimo), e literatura (em especial os clássicos). -->
 
 <!--
   Minhas habilidades: 
@@ -19,11 +23,11 @@
     <img src="mysqld.png" height="30px" title="MySQL" />
     <img src="c.png"      height="30px" title="C" />
     -->
-</p>
+<!-- </p> -->
 
 <!-- <p align="left"><b>Me siga:</b></p> -->
 
-[![Blog](https://img.shields.io/badge/Blog-444444?style=for-the-badge&logo=github&logoColor=white)](https://melchisedech333.github.io/)
+<!-- [![Blog](https://img.shields.io/badge/Blog-444444?style=for-the-badge&logo=github&logoColor=white)](https://melchisedech333.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melchisedech-rex-724152235/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC4Sh4wxncr5arnydpUfWPKw)
 
@@ -35,4 +39,4 @@
   </a>
 </div>
 
-
+ -->
