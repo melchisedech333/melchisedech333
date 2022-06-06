@@ -7,7 +7,11 @@ Currently I have been working on the development of the <a href="https://github.
 
 **If my code has helped you, please consider [sponsoring me](https://github.com/sponsors/melchisedech333) :blue_heart:** 
 
+<br>
+
 <div align="center">
+  Elsewhere on the internet
+  <br>
 
   [![Twitter](https://img.shields.io/badge/Twitter-2aa9e0?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Melchisedech333)
   [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC4Sh4wxncr5arnydpUfWPKw)
