@@ -11,8 +11,6 @@ Currently I have been working on the development of the <a href="https://github.
 
 <div align="center">
 
-  ### Elsewhere on the internet
-  
   [![Twitter](https://img.shields.io/badge/Twitter-2aa9e0?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Melchisedech333)
   [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC4Sh4wxncr5arnydpUfWPKw)
   [![Blog](https://img.shields.io/badge/Blog-444444?style=for-the-badge&logo=github&logoColor=white)](https://melchisedech333.github.io/)
