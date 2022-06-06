@@ -7,6 +7,14 @@ Currently I have been working on the development of the <a href="https://github.
 
 **If my code has helped you, please consider [sponsoring me](https://github.com/sponsors/melchisedech333) :blue_heart:** 
 
+
+<div align="left">
+  <a href="https://github.com/melchisedech333">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=melchisedech333&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&randabc=4534535434" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melchisedech333&layout=compact&langs_count=20&theme=tokyonight&include_all_commits=true&count_private=true" />
+  </a>
+</div>
+
 <!-- ### Olá, sou o Melch1sed3ch <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40"> 
 
 <img align='right' src="lain-1.png" width="100" >
