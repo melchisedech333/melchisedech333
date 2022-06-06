@@ -10,7 +10,8 @@ Currently I have been working on the development of the <a href="https://github.
 <br>
 
 <div align="center">
-  Elsewhere on the internet
+
+  ### Elsewhere on the internet
   <br>
 
   [![Twitter](https://img.shields.io/badge/Twitter-2aa9e0?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Melchisedech333)
