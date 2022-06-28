@@ -1,5 +1,5 @@
 
-### <div align="center">I'm Jessé Silva <i>aka Melchisedech333</i> 🙃</div>
+### <div align="center">I'm Melchisedech333</i> 🙃</div>
 
 I am a software developer and researcher, and I am very interested in the study of physics and mathematics.
 
