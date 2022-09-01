@@ -3,7 +3,7 @@
 
 I am a software developer and researcher, and I am very interested in the study of physics and mathematics.
 
-Currently I have been working on the development of the <a href="https://github.com/verbum-lang">Verbum programming language</a>. A language that has an emphasis on distributed computing, seeking to integrate interesting features, such as hot code reload and metaprogramming.
+Currently I have been working on the development of the <a href="https://github.com/verbum-lang">Verbum programming language</a>. A language that has an emphasis on complex systems, seeking to integrate interesting features such as hot code reload, metaprogramming and support for distributed computing.
 
 **If my code has helped you, please consider [sponsoring me](https://github.com/sponsors/melchisedech333) :blue_heart:** 
 
