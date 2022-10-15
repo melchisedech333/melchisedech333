@@ -5,8 +5,6 @@ I am a developer who is currently becoming increasingly interested in mathematic
 
 Currently I have dedicated myself to the study about the development of programming languages. And as an initial project, I have been dedicating myself to the development of the <a href="https://github.com/verbum-lang">Verbum Language</a>.
 
-<br>
-
 <b>Here is a list of some code and projects:</b>
 
 - [Trinity Units](https://github.com/trinity-units/trinity-units)
