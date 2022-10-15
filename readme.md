@@ -21,15 +21,13 @@ Currently I have dedicated myself to the study about the development of programm
 
 <div align="center">
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melchisedech-rex-724152235/)
-  [![Twitter](https://img.shields.io/badge/Twitter-2aa9e0?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Melchisedech333)
-  [![Blog](https://img.shields.io/badge/Blog-444444?style=for-the-badge&logo=github&logoColor=white)](https://melchisedech333.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melchisedech-rex-724152235/)
+[![Twitter](https://img.shields.io/badge/Twitter-2aa9e0?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Melchisedech333)
+[![Blog](https://img.shields.io/badge/Blog-444444?style=for-the-badge&logo=github&logoColor=white)](https://melchisedech333.github.io/)
+[![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/melchisedech333)
 
-
-<a href="https://github.com/sponsors/melchisedech333"><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" ></a>
 
 **If my code has helped you, please consider [sponsoring me](https://github.com/sponsors/melchisedech333) :blue_heart:**
-
   
 </div>
 
