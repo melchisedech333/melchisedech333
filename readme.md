@@ -1,7 +1,7 @@
 
 ### <div align="center">I'm Melchisedech333</i> 🙃</div>
 
-I am a software developer who is currently becoming increasingly interested in mathematics and physics.
+I am a developer who is currently becoming increasingly interested in mathematics and physics.
 
 Currently I have dedicated myself to the study about the development of programming languages. And as an initial project, I have been dedicating myself to the development of the <a href="https://github.com/verbum-lang">Verbum Language</a>.
 
@@ -20,8 +20,6 @@ Currently I have dedicated myself to the study about the development of programm
 - [YouTube Speed Toolbar](https://github.com/melchisedech333/youtube-speed-toolbar)
 - [YouTube Hidden Notifications](https://github.com/melchisedech333/youtube-hidden-notifications)
 - [All repositories](https://github.com/melchisedech333?tab=repositories)
-
-<br>
 
 <div align="center">
 
