@@ -9,7 +9,7 @@ Currently I have dedicated myself to the study about the development of programm
 
 - [Trinity Units](https://github.com/trinity-units/trinity-units)
 - [Transistor Simulator](https://github.com/melchisedech333/transistor-simulator)
-- [Laser Scanning Microscope](https://github.com/melchisedech333/laser-scanning-microscopy)
+- [Laser Scanning Microscopy](https://github.com/melchisedech333/laser-scanning-microscopy)
 - [XOR Neural Network](https://github.com/melchisedech333/xor-neural-network)
 - [ANTLR4 experiments](https://github.com/melchisedech333/antlr4-experiments)
 - [Lex & YACC experiments](https://github.com/melchisedech333/lex-yacc-experiments)
