@@ -41,10 +41,10 @@ Currently I have dedicated myself to the study about the development of programm
   
 </div>
 
-<br>
+<!-- <br>
 
 <p align="center">
   <img width="100%" height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=melchisedech333&theme=nord_dark"/>
-</p>
+</p> -->
 
 
