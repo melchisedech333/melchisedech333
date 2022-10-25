@@ -1,5 +1,5 @@
 
-### <div align="center">I'm Melchisedech333</i> 🙃</div>
+### <div align="center">I'm Melchisedech333 🙃</div>
 
 I am a developer who is currently becoming increasingly interested in mathematics and physics.
 
@@ -40,5 +40,11 @@ Currently I have dedicated myself to the study about the development of programm
 **If my code has helped you, please consider [sponsoring me](https://github.com/sponsors/melchisedech333) :blue_heart:**
   
 </div>
+
+<br>
+
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=albrechtcolia&theme=nord_dark"/>
+</p>
 
 
