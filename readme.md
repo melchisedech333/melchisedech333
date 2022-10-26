@@ -15,8 +15,7 @@ Currently I have dedicated myself to the study about the development of programm
 - [Lex & YACC experiments](https://github.com/melchisedech333/lex-yacc-experiments)
 - [Log Viewer](https://github.com/melchisedech333/log-viewer)
 - [Verbum Paper](https://github.com/verbum-paper/verbum-paper)
-- [YouTube Speed Toolbar](https://github.com/melchisedech333/youtube-speed-toolbar)
-- [YouTube Hidden Notifications](https://github.com/melchisedech333/youtube-hidden-notifications)
+youtube-hidden-notifications)
 - [All repositories](https://github.com/melchisedech333?tab=repositories)
 
 <br>
