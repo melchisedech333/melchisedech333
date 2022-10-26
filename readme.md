@@ -13,7 +13,7 @@ Currently I have dedicated myself to the study about the development of programm
 - [Neural Network - Classic XOR problem](https://github.com/melchisedech333/xor-neural-network)
 - [ANTLR4 experiments - Grammar processing](https://github.com/melchisedech333/antlr4-experiments)
 - [Lex & YACC experiments - A little more grammar processing](https://github.com/melchisedech333/lex-yacc-experiments)
-- [Verbum Paper - Sharing math formulas](https://github.com/verbum-paper/verbum-paper)
+- [Verbum Paper - Sharing cool math stuff](https://github.com/verbum-paper/verbum-paper)
 - [Log Viewer - Using Non-blocking socket](https://github.com/melchisedech333/log-viewer)
 - [All repositories](https://github.com/melchisedech333?tab=repositories)
 
