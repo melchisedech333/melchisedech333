@@ -20,8 +20,8 @@ Currently I have dedicated myself to the study about the development of programm
 <br>
 <b>Articles (written in PT-BR):</b>
 
-- [Meus textos dos episódios do ResumoCast](https://github.com/melchisedech333/resumo-cast)
 - [Criando um microscópio de varredura a laser](https://github.com/melchisedech333/laser-scanning-microscopy)
+- [Meus textos dos episódios do ResumoCast](https://github.com/melchisedech333/resumo-cast)
 
 
 <br>
