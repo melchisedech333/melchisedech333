@@ -8,14 +8,13 @@ Currently I have dedicated myself to the study about the development of programm
 <br>
 <b>Here is a list of some code and projects:</b>
 
-- [Trinity Units](https://github.com/trinity-units/trinity-units)
-- [Transistor Simulator](https://github.com/melchisedech333/transistor-simulator)
-- [XOR Neural Network](https://github.com/melchisedech333/xor-neural-network)
+- [Trinity Units - SI Units, Imperial System and US Costumary Units](https://github.com/trinity-units/trinity-units)
+- [Transistor and Logic Gate Simulator - With implementation of Half Adder](https://github.com/melchisedech333/transistor-simulator)
+- [Neural Network - Classic XOR problem](https://github.com/melchisedech333/xor-neural-network)
 - [ANTLR4 experiments](https://github.com/melchisedech333/antlr4-experiments)
 - [Lex & YACC experiments](https://github.com/melchisedech333/lex-yacc-experiments)
+- [Verbum Paper - Sharing math formulas](https://github.com/verbum-paper/verbum-paper)
 - [Log Viewer](https://github.com/melchisedech333/log-viewer)
-- [Verbum Paper](https://github.com/verbum-paper/verbum-paper)
-youtube-hidden-notifications)
 - [All repositories](https://github.com/melchisedech333?tab=repositories)
 
 <br>
