@@ -9,6 +9,7 @@ Currently I have dedicated myself to the study about the development of programm
 <b>Here is a list of some code and projects:</b>
 
 - [Trinity Units - SI Units, Imperial System and US Costumary Units](https://github.com/trinity-units/trinity-units)
+- [Verilog studies - Use of MOSFETs, implementation of logic gates and Half-Adder](https://github.com/melchisedech333/verilog-experiments)
 - [Transistor and Logic Gate Simulator - With implementation of Half Adder](https://github.com/melchisedech333/transistor-simulator)
 - [Neural Network - Classic XOR problem](https://github.com/melchisedech333/xor-neural-network)
 - [ANTLR4 experiments - Grammar processing](https://github.com/melchisedech333/antlr4-experiments)
