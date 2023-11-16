@@ -26,7 +26,6 @@ I'm a software developer, and my interests revolve around math, physics, busines
 <br>
 <div align="center">
 
-[![Blog](https://img.shields.io/badge/Blog-444444?style=for-the-badge&logo=github&logoColor=white)](https://melchisedech333.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesse-romero-verbum/)
 
 **If my code has helped you, please consider [sponsoring me](https://github.com/sponsors/melchisedech333) :blue_heart:**
