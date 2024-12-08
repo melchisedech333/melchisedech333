@@ -1,8 +1,6 @@
 
 ### <div align="center">I'm Melchisedech333 🙃</div>
 
-I'm a software developer, and my interests revolve around math, physics, business and semiconductors.
-
 <br>
 <b>Here is a list of some code and projects:</b>
 
@@ -22,12 +20,6 @@ I'm a software developer, and my interests revolve around math, physics, busines
 - [Criando um microscópio de varredura a laser](https://github.com/melchisedech333/laser-scanning-microscopy)
 - [Meus textos dos episódios do ResumoCast](https://github.com/melchisedech333/resumo-cast)
 
-
 <br>
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesse-romero-verbum/)
-  
-</div>
 
 
