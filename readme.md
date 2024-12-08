@@ -1,7 +1,4 @@
 
-### <div align="center">I'm Melchisedech333 🙃</div>
-
-<br>
 <b>Here is a list of some code and projects:</b>
 
 - [Trinity Units - SI Units, Imperial System and US Costumary Units](https://github.com/trinity-units/trinity-units)
@@ -18,7 +15,6 @@
 <b>Articles (written in PT-BR):</b>
 
 - [Criando um microscópio de varredura a laser](https://github.com/melchisedech333/laser-scanning-microscopy)
-- [Meus textos dos episódios do ResumoCast](https://github.com/melchisedech333/resumo-cast)
 
 <br>
 
