@@ -1,5 +1,5 @@
 
-<b>Code and projects:</b>
+<b>Codes and projects:</b>
 
 - [Trinity Units - SI Units, Imperial System and US Costumary Units](https://github.com/trinity-units/trinity-units)
 - [Verilog studies - Use of MOSFETs, implementation of logic gates and Half-Adder](https://github.com/melchisedech333/verilog-experiments)
